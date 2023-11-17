@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://<andr3serafim>.github.io/<burcador-cep>/",
+  "homepage": "https://andr3serafim.github.io/buscador-cep/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
